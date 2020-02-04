@@ -1,0 +1,12 @@
+Walking
+150
+Plank
+400
+Push-up
+310
+Hitting rope
+350
+Jogging
+170
+Swimming
+500
